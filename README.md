@@ -1,8 +1,9 @@
 # Cardio-Model-order-reduction-in-CFD
+
+[![DOI:10.5281/zenodo.5848186](https://zenodo.org/badge/DOI/10.5281/zenodo.5848186.svg)](doi.org/10.5281/zenodo.5848186)    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Bachelor Thesis - Data-based surrogate modeling for simulation of blood flow in vessel-like model
 
-Full Thesis, figures etc under:
-doi:10.5281/zenodo.5848186
 
 
 Abstract:
